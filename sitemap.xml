@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.usanomos.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://www.usanomos.com/</loc></url>
+  <url><loc>https://www.usanomos.com/blog/</loc></url>
+  <url><loc>https://www.usanomos.com/blog/control-de-plazos-procesales-ia.html</loc></url>
+  <url><loc>https://www.usanomos.com/blog/redactar-demanda-borrador-ia.html</loc></url>
+  <url><loc>https://www.usanomos.com/blog/organizar-expediente-whatsapp-pdf.html</loc></url>
+  <url><loc>https://www.usanomos.com/blog/resumir-expediente-300-fojas.html</loc></url>
+  <url><loc>https://www.usanomos.com/blog/ia-abogados-secreto-profesional-lfpdppp.html</loc></url>
 </urlset>
